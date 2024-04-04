@@ -1,2 +1,3 @@
 # Registration-Automation
-Efficient event registration automation using JavaScript and Google Apps Script....!!
+<h2> Efficient event registration automation using JavaScript and Google Apps Script....!! </h2> <br>
+This GitHub repository hosts an automated registration system codebase developed to streamline the registration process for events, such as university festivals or conferences.... The code, written in JavaScript using Google Apps Script, efficiently manages registration numbers, form submissions, and confirmation messages within Google Sheets and Forms.... Through meticulous parameter configuration and seamless integration with Google Apps Script, this system offers a robust solution for automating registration workflows, enhancing efficiency and accuracy....
